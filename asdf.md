@@ -1,7 +1,6 @@
 ---
 order: 1
-title: asdf
----
+ti
 
 asdfsadasdasasasdf
 
